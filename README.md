@@ -8,21 +8,32 @@ limited hardware, messy institutional data, and three working languages.
 
 ## What I do
 
-**Text classification and document routing.** Fine-tuning open models on your
-data, with a real evaluation section and a deployment path. Recently: a
-multilingual classifier over 1,000+ job title categories across Italian,
-German and English, taken from 54% to 82% accuracy and deployed to production
-at a South Tyrolean public IT company.
+**Classification of messy real-world records.** Imputing roughly 1.5 million
+missing occupation codes across a 5.5 million record employment contract
+database for a public labour market office, feeding official statistics:
+75.88% accuracy across 700+ hierarchical classes, CPU-only. The first model
+looked fine on accuracy but emitted 200+ codes that do not exist in the
+national classification; redesigning it as a digit-by-digit chain cut that
+to 45.
 
-**Agentic systems.** Multi-agent pipelines that do structured work end to end,
-not chatbot demos. See `agentic-ml-pipeline-builder` below.
+> "The results were useful for our work and showed clear potential for
+> supporting data quality improvements and reducing manual coding effort."
+>
+> Walter Niedermair, Amt für Arbeitsmarktbeobachtung / Ufficio Osservazione
+> mercato del lavoro, Bolzano
 
-**Making models work under constraints.** CPU-only environments, on-prem
-requirements, small labeled datasets, GPU memory limits. A chained Random
-Forest pipeline imputing roughly one million missing occupation codes across a
-5.5 million record contract database, reaching 75.76% accuracy on 700+ classes.
-A domain-shift recovery from 0.50 to 0.77 accuracy using fewer than 140
-labeled target-domain examples.
+**Multilingual text classification.** Fine-tuning transformers with custom
+hierarchical classification heads across Italian, German and English, taken
+to production at a South Tyrolean public IT company.
+<!-- When SIAG clears it: name SIAG, add "1,000+ categories, 54% to 82% accuracy" -->
+
+**Agentic systems.** Multi-agent pipelines that do structured work end to end.
+My current one takes a task description and a raw dataset and produces a
+reviewed, deployable Python ML pipeline.
+
+**Making models work with little data.** Recovering a video classifier from
+chance level to 0.77 accuracy on a new domain using fewer than 140 labelled
+examples.
 
 ## Selected work
 
