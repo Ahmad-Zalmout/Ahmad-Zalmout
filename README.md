@@ -16,8 +16,8 @@ looked fine on accuracy but emitted 200+ codes that do not exist in the
 national classification; redesigning it as a digit-by-digit chain cut that
 to 45.
 
-> "The results were useful for our work and showed clear potential for
-> supporting data quality improvements and reducing manual coding effort."
+> "Ahmad worked on a project aimed at improving the classification of occupational information in administrative labour market records. He developed and implemented a machine learning solution for coding occupations, handling missing information, and validating data across different sources.
+> Throughout the project, he demonstrated strong analytical and programming skills, a structured approach to problem solving, and a good understanding of labour market data. The results were useful for our work and showed clear potential for supporting data quality improvements and reducing manual coding effort."
 >
 > Walter Niedermair, Amt für Arbeitsmarktbeobachtung / Ufficio Osservazione
 > mercato del lavoro, Bolzano
