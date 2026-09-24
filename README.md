@@ -23,8 +23,9 @@ to 45.
 > mercato del lavoro, Bolzano
 
 **Multilingual text classification.** Fine-tuning transformers with custom
-hierarchical classification heads across Italian, German and English, taken
-to production at a South Tyrolean public IT company.
+hierarchical classification heads across Italian, German and English, where the target is a hierarchical code rather than a flat label.
+
+<!-- taken to production at a South Tyrolean public IT company. -->
 <!-- When SIAG clears it: name SIAG, add "1,000+ categories, 54% to 82% accuracy" -->
 
 **Agentic systems.** Multi-agent pipelines that do structured work end to end.
