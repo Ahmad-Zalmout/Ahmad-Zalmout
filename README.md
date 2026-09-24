@@ -41,8 +41,10 @@ examples.
 | Repository | What it shows |
 |---|---|
 | [agentic-ml-pipeline-builder](https://github.com/Ahmad-Zalmout/agentic-ml-pipeline-builder) | Seven-agent AutoGen system: task description and raw dataset in, deployable reviewed Python pipeline out |
-| [multilingual-hierarchical-text-classification](https://github.com/Ahmad-Zalmout/multilingual-hierarchical-text-classification) | XLM-RoBERTa with a hierarchical classification head over multilingual occupation taxonomies |
+|  multilingual-hierarchical-text-classification| XLM-RoBERTa with a hierarchical classification head over multilingual occupation taxonomies |
 | [cross-dataset-generalization](https://github.com/Ahmad-Zalmout/cross-dataset-generalization) | Diagnosing domain-shift collapse and recovering with linear probing on a tiny labeled set |
+
+<!-- [multilingual-hierarchical-text-classification](https://github.com/Ahmad-Zalmout/multilingual-hierarchical-text-classification)-->
 
 ## Background
 
