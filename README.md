@@ -63,4 +63,4 @@ training, Databricks, Flask. Microsoft Certified: Azure AI Fundamentals.
 
 ## Contact
 
-[LinkedIn](www.linkedin.com/in/ahmad-zalmout-a288b1224) · azalmout@gmail.com
+[LinkedIn](https://www.linkedin.com/in/ahmad-zalmout-a288b1224) · azalmout@gmail.com
