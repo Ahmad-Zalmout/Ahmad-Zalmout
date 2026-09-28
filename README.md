@@ -4,7 +4,8 @@ ML engineer in Bolzano, Italy. I build text classification, multilingual NLP,
 and agentic systems that run in production, usually under real constraints:
 limited hardware, messy institutional data, and three working languages.
 
-**Available for contract and subcontract work.**
+MSc Computing for Data Science, unibz, 2026. Most of my work so far has been
+with public-sector data in South Tyrol.
 
 ## What I do
 
@@ -25,9 +26,6 @@ to 45.
 **Multilingual text classification.** Fine-tuning transformers with custom
 hierarchical classification heads across Italian, German and English, where the target is a hierarchical code rather than a flat label.
 
-<!-- taken to production at a South Tyrolean public IT company. -->
-<!-- When SIAG clears it: name SIAG, add "1,000+ categories, 54% to 82% accuracy" -->
-
 **Agentic systems.** Multi-agent pipelines that do structured work end to end.
 My current one takes a task description and a raw dataset and produces a
 reviewed, deployable Python ML pipeline.
@@ -42,6 +40,7 @@ examples.
 |---|---|
 | [agentic-ml-pipeline-builder](https://github.com/Ahmad-Zalmout/agentic-ml-pipeline-builder) | Seven-agent AutoGen system: task description and raw dataset in, deployable reviewed Python pipeline out |
 |  multilingual-hierarchical-text-classification| XLM-RoBERTa with a hierarchical classification head over multilingual occupation taxonomies |
+| [hierarchical-occupation-imputation](https://github.com/Ahmad-Zalmout/hierarchical-occupation-imputation) | Chained Random Forest over a hierarchical code at 5.5M record scale, with an honest known-issues section |
 | [cross-dataset-generalization](https://github.com/Ahmad-Zalmout/cross-dataset-generalization) | Diagnosing domain-shift collapse and recovering with linear probing on a tiny labeled set |
 
 <!-- [multilingual-hierarchical-text-classification](https://github.com/Ahmad-Zalmout/multilingual-hierarchical-text-classification)-->
@@ -50,8 +49,7 @@ examples.
 
 MSc Computing for Data Science, Free University of Bozen-Bolzano.
 BSc Computer Science, Princess Sumaya University for Technology, Amman.
-Previously IT audit at KPMG, which is why I can sit in a room with non-technical
-stakeholders and a compliance officer and make sense to both.
+Previously IT audit at KPMG, which taught me to work with non-technical stakeholders and compliance teams.
 
 Working languages: English, German (intermediate), Arabic (native),
 Italian (basic).
@@ -62,5 +60,8 @@ PyTorch, HuggingFace Transformers, AutoGen, scikit-learn, CUDA and mixed-precisi
 training, Databricks, Flask. Microsoft Certified: Azure AI Fundamentals.
 
 ## Contact
+
+Open to full-time ML and AI engineering roles, and available for contract and
+subcontract work. Happy to talk about either.
 
 [LinkedIn](https://www.linkedin.com/in/ahmad-zalmout-a288b1224) · azalmout@gmail.com
