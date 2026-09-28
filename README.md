@@ -1,6 +1,6 @@
 # Ahmad Zalmout
 
-ML engineer in Bolzano, Italy. I build text classification, multilingual NLP,
+AI engineer in Bolzano, Italy. I build text classification, multilingual NLP,
 and agentic systems that run in production, usually under real constraints:
 limited hardware, messy institutional data, and three working languages.
 
