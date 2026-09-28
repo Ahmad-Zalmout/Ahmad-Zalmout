@@ -64,4 +64,4 @@ training, Databricks, Flask. Microsoft Certified: Azure AI Fundamentals.
 Open to full-time ML and AI engineering roles, and available for contract and
 subcontract work. Happy to talk about either.
 
-[LinkedIn](https://www.linkedin.com/in/ahmad-zalmout-a288b1224) · azalmout@gmail.com
+[LinkedIn](https://www.linkedin.com/in/ahmad-zalmout) · azalmout@gmail.com
